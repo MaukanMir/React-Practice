@@ -26,7 +26,7 @@ const Modal = () => {
     <button onClick = {removeModal}> Remove modal </button>
 
     <div  style ={ show?  {display: "flex"} : {display: "none"}} className ='here'>
-    <h1  className ="present">I am modal bitch</h1>
+    <h1  className ="present">I am modal, Hello!</h1>
      </div>
 
     </div>
