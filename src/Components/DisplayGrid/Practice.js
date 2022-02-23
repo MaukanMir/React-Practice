@@ -20,7 +20,7 @@ return (
         return (
             <div key = {idx}>
             <h1>{person}</h1>
-            <button onClick = {()=> removeItem(idx)}> remove me bitch</button>
+            <button onClick = {()=> removeItem(idx)}> remove me</button>
             </div>
         )
         })
