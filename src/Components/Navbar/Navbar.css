@@ -1,0 +1,35 @@
+
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px 5px 0px 0px;
+    background-color: black;
+    color: white;
+}
+
+.down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px 5px 0px 0px;
+    background-color: black;
+    color: white;
+}
+
+.amount{
+    font-size: 20px;
+    margin: 5px 5px 0px 0px;
+}

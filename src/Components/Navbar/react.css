@@ -1,0 +1,32 @@
+
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.holder{
+    height: 300px;
+    width: 300px;
+    border: 5px solid;
+}
+
+.p-tag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+}
+
+.input{
+    height: 40px;
+    width: 300px;
+    margin: 15px;
+    border-bottom: 2px solid ;
+    border-radius: 10px;
+
+}
+
+.useless{
+    margin: 10px;
+}
